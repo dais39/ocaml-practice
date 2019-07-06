@@ -1,0 +1,2 @@
+## Ocaml-practice
+Ocamlのサンプルコード
